@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title>Basic HTML</title>
+		<meta charset="utf-8">
+			<link rel="stylesheet" type="text/css" href="./css/account.css">
+	</head>
+	<body>
+	<img src="./images/kittens.png"></img>
+	<header>
+	<h1>The basic HTML template</h1>
+	<p>Introduction to basic HTML systax</p>
+	</header>
+	</body>
+</html>
